@@ -10,8 +10,7 @@ body {
 .card {
   width: 640px;
   height: 400px;
-  justify-content: center;
-  position:center;
+  position:ststic;
   margin: auto;
   left: 0;
   right: 0;
